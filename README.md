@@ -10,34 +10,48 @@ A new framework for programmable governance, built on algorithmic justice and ci
 AIPOLIS is not a tool.  
 It is a **political operating system** — a programmable layer of governance that empowers communities, not ideologies.
 
-It reimagines how policies are created, verified, and adapted — through collective intelligence, digital identity, and transparent algorithms.
+It reimagines how policies are created, verified, and adapted —  
+through collective intelligence, digital identity, and transparent algorithms.
 
 ---
 
 ## 📄 Download
 
-👉 [**AIPOLIS Whitepaper PDF**](./AIPOLIS_v1.0.pdf)
+📥 [**Download AIPOLIS Whitepaper (PDF)**](./AIPOLIS_v1.0.pdf)
 
 ---
 
 ## 🔑 Core Principles
 
-- 🧬 **Civic Intelligence**, not just artificial
-- ⚖️ **Algorithmic Justice**, auditable by design
-- 🌐 **Post-Nation Governance**, beyond borders
-- 📱 **Programmable Citizenship**, identity with consent
-- 🤝 **Trust by Design**, verified through smart contracts
+- 🧬 **Civic Intelligence**, not just artificial  
+- ⚖️ **Algorithmic Justice**, auditable by design  
+- 🌐 **Post-Nation Governance**, beyond borders  
+- 📱 **Programmable Citizenship**, identity with consent  
+- 🤝 **Trust by Design**, verified through smart contracts  
 
 ---
 
 ## 🏛 Vision Statement
 
 > *“If the old world cannot be fixed, let us program a new one.”*  
-> — AIPOLIS Manifesto
+> — **AIPOLIS Manifesto**
+
+---
+
+## 🌐 Official Resources
+
+- 📘 [AIPOLIS Manifesto (GitHub)](./AIPOLIS_Manifesto.md) *(optional)*
+- 🔗 Website: [aipolis.org](https://aipolis.org) *(준비 중이면 삭제 가능)*
+- 📡 Twitter/X: [@aipolis_xyz](https://twitter.com/aipolis_xyz)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **Apache 2.0 License**.  
-See [LICENSE](./LICENSE) for details.
+Licensed under the [Apache License 2.0](./LICENSE).
+
+---
+
+> Built with conviction. Powered by vision.  
+> **We are not asking for permission — we are building a better system.**
+
