@@ -40,8 +40,8 @@ through collective intelligence, digital identity, and transparent algorithms.
 
 ## 🌐 Official Resources
 
-- 📘 [AIPOLIS Manifesto (GitHub)](./AIPOLIS_Manifesto.md) *(optional)*
-- 🔗 Website: [aipolis.org](https://aipolis.org) *(준비 중이면 삭제 가능)*
+- 📘 [AIPOLIS Manifesto (GitHub)](./AIPOLIS_Manifesto.md) 
+- 🔗 Website: [aipolis.org](https://aipolis.org) 
 - 📡 Twitter/X: [@aipolis_xyz](https://twitter.com/aipolis_xyz)
 
 ---
